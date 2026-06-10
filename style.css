@@ -1,3 +1,17 @@
 header{
     background-color: #387CAF;
+color: rgb(15, 15, 15);
+max-width: 800px;
+margin: 0 auto;
 }
+
+main{
+    background-color: cornflowerblue;
+color: cornflowerblue;
+text-align: center;
+max-width: 800px;
+margin: 0 auto;
+}
+
+
+
